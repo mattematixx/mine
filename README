@@ -1,1 +1,6 @@
 Yey jag tänkte ändra lite här
+
+To check in
+
+git remote add origin git@github.com:username/mine.git
+git push -u origin master
